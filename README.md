@@ -1,5 +1,9 @@
 ### Hi there 👋
+My name is Vinh and I do some programming tasks almost every day.   
 
+
+-----
+👷‍♂️ [Portfolio](https://www.linkedin.com/in/vinh-nguyen-b8814b21b/)
 <!--
 **0x43D1/0x43D1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
